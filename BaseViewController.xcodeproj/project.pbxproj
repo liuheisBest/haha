@@ -16,6 +16,7 @@
 		1887A4D21E038D68001A2681 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1887A4D01E038D68001A2681 /* LaunchScreen.storyboard */; };
 		1887A4DD1E038D68001A2681 /* BaseViewControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1887A4DC1E038D68001A2681 /* BaseViewControllerTests.m */; };
 		1887A4E81E038D69001A2681 /* BaseViewControllerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1887A4E71E038D69001A2681 /* BaseViewControllerUITests.m */; };
+		1887A4F81E039243001A2681 /* PBHaHa.m in Sources */ = {isa = PBXBuildFile; fileRef = 1887A4F71E039243001A2681 /* PBHaHa.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		1887A4E31E038D68001A2681 /* BaseViewControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BaseViewControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1887A4E71E038D69001A2681 /* BaseViewControllerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseViewControllerUITests.m; sourceTree = "<group>"; };
 		1887A4E91E038D69001A2681 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1887A4F61E039243001A2681 /* PBHaHa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PBHaHa.h; sourceTree = "<group>"; };
+		1887A4F71E039243001A2681 /* PBHaHa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PBHaHa.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +150,8 @@
 		1887A4F51E03911D001A2681 /* New Group */ = {
 			isa = PBXGroup;
 			children = (
+				1887A4F61E039243001A2681 /* PBHaHa.h */,
+				1887A4F71E039243001A2681 /* PBHaHa.m */,
 			);
 			name = "New Group";
 			sourceTree = "<group>";
@@ -285,6 +290,7 @@
 				1887A4CD1E038D68001A2681 /* BaseViewController.xcdatamodeld in Sources */,
 				1887A4C41E038D68001A2681 /* AppDelegate.m in Sources */,
 				1887A4C11E038D68001A2681 /* main.m in Sources */,
+				1887A4F81E039243001A2681 /* PBHaHa.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
