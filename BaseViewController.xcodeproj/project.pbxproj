@@ -83,6 +83,7 @@
 		1887A4B31E038D67001A2681 = {
 			isa = PBXGroup;
 			children = (
+				1887A4F51E03911D001A2681 /* New Group */,
 				1887A4BE1E038D68001A2681 /* BaseViewController */,
 				1887A4DB1E038D68001A2681 /* BaseViewControllerTests */,
 				1887A4E61E038D69001A2681 /* BaseViewControllerUITests */,
@@ -141,6 +142,13 @@
 				1887A4E91E038D69001A2681 /* Info.plist */,
 			);
 			path = BaseViewControllerUITests;
+			sourceTree = "<group>";
+		};
+		1887A4F51E03911D001A2681 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
